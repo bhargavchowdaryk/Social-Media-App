@@ -19,7 +19,7 @@ View Website: https://social-media-appp.herokuapp.com/account
 ## Installation and usage
 1) Clone this repository  
 
-git clone https://github.com/bhargavchowdaryk/Post-It-app.git
+git clone https://github.com/bhargavchowdaryk/Social-Media_App.git
 
 2) Install dependencies  
  
